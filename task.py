@@ -1,3 +1,6 @@
+# You can try it on repl.it
+# https://replit.com/@OksanaGritsienk/TesttaskPortaOne
+
 def word_processing():
 
     print("Enter text for analysis:")
